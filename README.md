@@ -25,10 +25,26 @@ First close the repository
 ```
 git clone https://github.com/jaateixeira/business_firm_color_dictionary_json.git
 ```
-Simply load the file using a json api 
+Simply load the file using a json api from your favorit programming language 
 
 ## How to us it as a dictionary associating firms to colors in python 
 
+``` py
+import json
+
+# Read JSON file
+
+with open('business_firm_color_dictionary_json/firm_color_dict.json', 'r') as file:
+    firm_color = json.load(file)
+
+# Now, data is a Python dictionary
+print(firm_color)
+
+# Print the color value for key ibm 
+print(f'\n The color of ibm is {firm_color["ibm"]}')
+
+
+```
 
 
 ### First, clone the repository into your working directory 
