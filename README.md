@@ -1,2 +1,2 @@
 # business_firm_color_dictionary-_json
-A dictionary of colors associated with business firms (e.g., IBM is blue, Nvidia is green, and RedHat is red) 
+A dictionary of colors associated with business firms (e.g., IBM is blue, Nvidia is green, and RedHat is <font color='red'>red</font>) 
