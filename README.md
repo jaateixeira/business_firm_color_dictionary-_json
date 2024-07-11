@@ -21,7 +21,15 @@ Sample from the firm_color_dict.json file containing the dictionary
 
 # How to use it
 
-## How to it as a dictionary associating firms to colors in python 
+First close the repository 
+```
+git clone https://github.com/jaateixeira/business_firm_color_dictionary_json.git
+```
+Simply load the file using a json api 
+
+## How to us it as a dictionary associating firms to colors in python 
+
+
 
 ### First, clone the repository into your working directory 
 
