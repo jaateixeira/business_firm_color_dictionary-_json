@@ -2,8 +2,8 @@
 A dictionary of colors associated with business firms
 
 For example: 
-* IBM is $${\color{blue}Blue}$$
-* Nvidia is $${\color{green}Green}$$
+* IBM is $\textsf{\textcolor{blue}{blue}}$
+* Nvidia is $\textsf{\textcolor{green}{green}}$
 * RedHat is $\textsf{\textcolor{red}{red}}$
 
 
