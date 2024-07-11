@@ -6,6 +6,15 @@ For example:
 * Nvidia is $\textsf{\textcolor{limegreen}{limegreen}}$
 * RedHat is $\textsf{\textcolor{red}{red}}$
 
+
+# Content 
+
+- The content is a key-value dictionary according to the JSON spec— A very friendly format for Python or JavaScript. 
+
+- Keys are firm names as "Textual Strings" in Unicode to map the JSON spec (http://www.ietf.org/rfc/rfc4627.txt) -- "JSON text SHALL be encoded in Unicode". 
+Values are colours accepted by MatplotLib (see https://matplotlib.org/stable/users/explain/colors/colors.html). Those can be X11/CSS4 and xkcd colors, RGB tuples among many other ways of specifying colors. 
+
+
 # How to use it
 
 ## How to it as a dictionary associating firms to colors in python 
