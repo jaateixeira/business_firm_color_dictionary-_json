@@ -6,9 +6,13 @@ For example:
 * Nvidia is $\textsf{\textcolor{limegreen}{limegreen}}$
 * RedHat is $\textsf{\textcolor{red}{red}}$
 
-# To import the colors as a python dictonary 
+## How to use it
 
-## First, clone the repository into your working directory 
+### First, clone the repository into your working directory 
 
-## Second, load it using the following code 
+### Second, load it using the following code 
+
+
+## How to contribute / expand it 
+
 
