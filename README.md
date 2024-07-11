@@ -15,9 +15,9 @@ For example:
 Values are colours accepted by MatplotLib (see https://matplotlib.org/stable/users/explain/colors/colors.html). Those can be X11/CSS4 and xkcd colors, RGB tuples among many other ways of specifying colors. 
 
 Sample from the firm_color_dict.json file containing the dictionary 
-'''
+```
 {"google": "red", "nvidia": "limegreen", "intel": "lightblue", "amd": "black", "arm": "steelblue", "amazon": "orange", "ibm": "darkblue", "linaro": "pink", "bytedance": "gray"} 
-'''
+```
 
 # How to use it
 
