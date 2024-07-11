@@ -46,12 +46,23 @@ print(f'\n The color of ibm is {firm_color["ibm"]}')
 
 ```
 
+# How to contribute or expand the dictionary 
 
-### First, clone the repository into your working directory 
+Please create a new branch for any new feature. Branch or fork, code, test, then pull request. Please follow the basic guide on [https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project). 
 
-### Second, load it using the following code 
+Simply edit the json file. I will merge it. 
+
+Jose Teixeira, currently the only maintainer,  will review and merge pull requests, update the ChangeLog.txt, aknowledge the contribuitions and work on documentation on free-time from work. 
+
+# Contributors 
+Jose Teixeira
+
+# Maintainers  
+Jose Teixeira
+
+# License 
+GNU General Public License v3.0
 
 
-# How to contribute / expand business_firm_color_dictionary_json
 
 
