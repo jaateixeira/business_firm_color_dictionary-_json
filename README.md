@@ -1,7 +1,6 @@
 # org-color-dict
 
-A dictionary of colors associated with business firms. Handy for the ones analysing business firms as colors are often elements of branding. 
-If the [Logo.dev ](https://www.logo.dev) API allows you to access company logos for a fee, org-color-dict allows you to access company colors for free. 
+**org-color-dict** is a dictionary (aka map) of colours associated with business firms. It is handy for the ones analysing business firms as colours are often a key element of firms' branding. If the [Logo.dev](https://www.logo.dev)  API allows you to access company logos for a fee, **org-colour-dict** allows you to access company colours for free.
 
 For example: 
 * IBM is $\textsf{\textcolor{darkblue}{darkblue}}$
@@ -27,7 +26,7 @@ First close the repository
 ```
 git clone https://github.com/jaateixeira/business_firm_color_dictionary_json.git
 ```
-Simply load the file using a json api from your favorit programming language 
+Simply load the file using a json api from your favorite programming language 
 
 ## How to us it as a dictionary associating firms to colors in python 
 
@@ -55,6 +54,15 @@ Please create a new branch for any new feature. Branch or fork, code, test, then
 Simply edit the json file. I will merge it. 
 
 Jose Teixeira, currently the only maintainer,  will review and merge pull requests, update the ChangeLog.txt, aknowledge the contribuitions and work on documentation on free-time from work. 
+
+# Related projects 
+
+[https://github.com/jaateixeira/ScrapLogGit2Net](https://github.com/jaateixeira/ScrapLogGit2Net) - A tool that mines Git repositories with Social Network Analysis to make sense of who works with who at the individual and organizational level.  **org-color-dict**  is used in [https://github.com/jaateixeira/ScrapLogGit2Net](https://github.com/jaateixeira/ScrapLogGit2Net) to colour organizations that can be nodes of inter-organizational networks or affiliation attributes of inter-individual social network. 
+
+[https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng) -  A tool that visually compare 2 social network graphs. **org-color-dict**  is used in [https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng)  to associate colors to actors associated with a certain company/firm/business. For example, all network elements associated with IBM are $\textsf{\textcolor{darkblue}{darkblue}}$ and all network elements associated with  Nvidia are $\textsf{\textcolor{limegreen}{limegreen}}$.
+
+
+
 
 # Contributors 
 Jose Teixeira
