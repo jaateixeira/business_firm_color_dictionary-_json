@@ -59,9 +59,7 @@ Jose Teixeira, currently the only maintainer,  will review and merge pull reques
 
 [https://github.com/jaateixeira/ScrapLogGit2Net](https://github.com/jaateixeira/ScrapLogGit2Net) - A tool that mines Git repositories with Social Network Analysis to make sense of who works with who at the individual and organizational level.  **org-color-dict**  is used in [https://github.com/jaateixeira/ScrapLogGit2Net](https://github.com/jaateixeira/ScrapLogGit2Net) to colour organizations that can be nodes of inter-organizational networks or affiliation attributes of inter-individual social network. 
 
-[https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng) -  A tool that visually compare 2 social network graphs. **org-color-dict**  is used in [https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng)  to associate colors to actors associated with a certain company/firm/business. For example, all network elements associated with IBM are $\textsf{\textcolor{darkblue}{darkblue}}$ and all network elements associated with  Nvidia are $\textsf{\textcolor{limegreen}{limegreen}}$.
-
-
+[https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng) -  A tool that visually compares 2 social network graphs. **org-color-dict**  is used in [https://github.com/jaateixeira/vc2sng](https://github.com/jaateixeira/vc2sng)  to associate colours to actors associated with a certain company/firm/business. For example, all network elements associated with IBM are $\textsf{\textcolor{darkblue}{darkblue}}$ and all network elements associated with  Nvidia are $\textsf{\textcolor{limegreen}{limegreen}}$.
 
 
 # Contributors 
