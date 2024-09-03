@@ -1,6 +1,7 @@
 # org-color-dict
 
-A dictionary of colors associated with business firms
+A dictionary of colors associated with business firms. Handy for the ones analysing business firms as colors are often elements of branding. 
+If the [Logo.dev ](https://www.logo.dev) API allows you to access company logos for a fee, org-color-dict allows you to access company colors for free. 
 
 For example: 
 * IBM is $\textsf{\textcolor{darkblue}{darkblue}}$
