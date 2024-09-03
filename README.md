@@ -1,4 +1,5 @@
-# business_firm_color_dictionary_json
+# org-color-dict
+
 A dictionary of colors associated with business firms
 
 For example: 
